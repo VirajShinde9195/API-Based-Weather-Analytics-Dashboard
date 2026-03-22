@@ -43,7 +43,7 @@ The project simulates a real-world workflow where raw API data is transformed in
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](API_Weather_Dashboard.png)
 
 
 
@@ -131,4 +131,3 @@ Feel free to connect with me on LinkedIn for more data analytics projects and co
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
