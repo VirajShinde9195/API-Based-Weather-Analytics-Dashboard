@@ -1,0 +1,505 @@
+time,temperature_2m,relative_humidity_2m,windspeed_10m,precipitation,cloudcover,weathercode,city,date,hour,day_name,period,weather_label
+2026-03-20 00:00:00,21.8,83,3.6,0.0,9,1,Pune,2026-03-20,0,Friday,Night,Mainly Clear
+2026-03-20 01:00:00,21.1,84,3.0,0.0,7,1,Pune,2026-03-20,1,Friday,Night,Mainly Clear
+2026-03-20 02:00:00,20.4,85,2.6,0.0,0,0,Pune,2026-03-20,2,Friday,Night,Clear
+2026-03-20 03:00:00,19.7,87,2.6,0.0,7,1,Pune,2026-03-20,3,Friday,Night,Mainly Clear
+2026-03-20 04:00:00,19.0,88,3.2,0.0,3,0,Pune,2026-03-20,4,Friday,Night,Clear
+2026-03-20 05:00:00,17.9,95,3.7,0.0,40,0,Pune,2026-03-20,5,Friday,Morning,Clear
+2026-03-20 06:00:00,17.1,99,4.5,0.0,58,45,Pune,2026-03-20,6,Friday,Morning,Fog
+2026-03-20 07:00:00,17.7,98,4.0,0.0,63,45,Pune,2026-03-20,7,Friday,Morning,Fog
+2026-03-20 08:00:00,20.9,85,2.5,0.0,4,0,Pune,2026-03-20,8,Friday,Morning,Clear
+2026-03-20 09:00:00,26.3,53,1.1,0.0,0,0,Pune,2026-03-20,9,Friday,Morning,Clear
+2026-03-20 10:00:00,30.0,35,1.0,0.0,0,0,Pune,2026-03-20,10,Friday,Morning,Clear
+2026-03-20 11:00:00,31.7,28,6.0,0.0,0,0,Pune,2026-03-20,11,Friday,Morning,Clear
+2026-03-20 12:00:00,33.2,24,10.1,0.0,0,0,Pune,2026-03-20,12,Friday,Afternoon,Clear
+2026-03-20 13:00:00,33.7,22,13.7,0.0,65,2,Pune,2026-03-20,13,Friday,Afternoon,Partly Cloudy
+2026-03-20 14:00:00,33.6,23,15.5,0.0,67,2,Pune,2026-03-20,14,Friday,Afternoon,Partly Cloudy
+2026-03-20 15:00:00,33.0,27,15.9,0.0,4,0,Pune,2026-03-20,15,Friday,Afternoon,Clear
+2026-03-20 16:00:00,32.4,28,14.6,0.0,0,0,Pune,2026-03-20,16,Friday,Afternoon,Clear
+2026-03-20 17:00:00,32.2,28,9.7,0.0,3,1,Pune,2026-03-20,17,Friday,Evening,Mainly Clear
+2026-03-20 18:00:00,30.2,39,12.1,0.0,19,1,Pune,2026-03-20,18,Friday,Evening,Mainly Clear
+2026-03-20 19:00:00,27.8,57,10.8,0.0,0,0,Pune,2026-03-20,19,Friday,Evening,Clear
+2026-03-20 20:00:00,26.2,63,6.3,0.0,10,1,Pune,2026-03-20,20,Friday,Evening,Mainly Clear
+2026-03-20 21:00:00,25.1,68,3.2,0.0,0,0,Pune,2026-03-20,21,Friday,Night,Clear
+2026-03-20 22:00:00,24.2,71,3.0,0.0,0,0,Pune,2026-03-20,22,Friday,Night,Clear
+2026-03-20 23:00:00,23.5,74,2.6,0.0,0,0,Pune,2026-03-20,23,Friday,Night,Clear
+2026-03-21 00:00:00,22.4,77,2.9,0.0,0,0,Pune,2026-03-21,0,Saturday,Night,Clear
+2026-03-21 01:00:00,21.7,80,2.9,0.0,0,0,Pune,2026-03-21,1,Saturday,Night,Clear
+2026-03-21 02:00:00,20.9,83,3.0,0.0,0,0,Pune,2026-03-21,2,Saturday,Night,Clear
+2026-03-21 03:00:00,20.4,85,1.4,0.0,0,0,Pune,2026-03-21,3,Saturday,Night,Clear
+2026-03-21 04:00:00,20.0,86,1.1,0.0,0,0,Pune,2026-03-21,4,Saturday,Night,Clear
+2026-03-21 05:00:00,19.8,87,2.6,0.0,0,0,Pune,2026-03-21,5,Saturday,Morning,Clear
+2026-03-21 06:00:00,19.6,87,3.1,0.0,0,0,Pune,2026-03-21,6,Saturday,Morning,Clear
+2026-03-21 07:00:00,20.1,85,2.8,0.0,0,0,Pune,2026-03-21,7,Saturday,Morning,Clear
+2026-03-21 08:00:00,23.3,72,2.2,0.0,0,0,Pune,2026-03-21,8,Saturday,Morning,Clear
+2026-03-21 09:00:00,26.2,57,6.5,0.0,0,0,Pune,2026-03-21,9,Saturday,Morning,Clear
+2026-03-21 10:00:00,28.5,44,8.4,0.0,0,0,Pune,2026-03-21,10,Saturday,Morning,Clear
+2026-03-21 11:00:00,30.6,34,7.2,0.0,0,0,Pune,2026-03-21,11,Saturday,Morning,Clear
+2026-03-21 12:00:00,32.4,26,4.3,0.0,0,0,Pune,2026-03-21,12,Saturday,Afternoon,Clear
+2026-03-21 13:00:00,33.5,21,3.5,0.0,0,0,Pune,2026-03-21,13,Saturday,Afternoon,Clear
+2026-03-21 14:00:00,34.3,20,5.9,0.0,0,0,Pune,2026-03-21,14,Saturday,Afternoon,Clear
+2026-03-21 15:00:00,34.4,20,7.6,0.0,22,1,Pune,2026-03-21,15,Saturday,Afternoon,Mainly Clear
+2026-03-21 16:00:00,33.8,22,8.2,0.0,36,1,Pune,2026-03-21,16,Saturday,Afternoon,Mainly Clear
+2026-03-21 17:00:00,33.0,25,7.4,0.0,42,1,Pune,2026-03-21,17,Saturday,Evening,Mainly Clear
+2026-03-21 18:00:00,31.8,27,8.0,0.0,35,1,Pune,2026-03-21,18,Saturday,Evening,Mainly Clear
+2026-03-21 19:00:00,29.1,41,9.9,0.0,0,0,Pune,2026-03-21,19,Saturday,Evening,Clear
+2026-03-21 20:00:00,27.1,56,6.5,0.0,0,0,Pune,2026-03-21,20,Saturday,Evening,Clear
+2026-03-21 21:00:00,25.9,60,3.7,0.0,0,0,Pune,2026-03-21,21,Saturday,Night,Clear
+2026-03-21 22:00:00,25.0,63,3.1,0.0,0,0,Pune,2026-03-21,22,Saturday,Night,Clear
+2026-03-21 23:00:00,24.3,65,2.6,0.0,0,0,Pune,2026-03-21,23,Saturday,Night,Clear
+2026-03-22 00:00:00,23.4,68,2.5,0.0,0,0,Pune,2026-03-22,0,Sunday,Night,Clear
+2026-03-22 01:00:00,22.7,69,2.3,0.0,0,0,Pune,2026-03-22,1,Sunday,Night,Clear
+2026-03-22 02:00:00,22.4,70,1.5,0.0,0,0,Pune,2026-03-22,2,Sunday,Night,Clear
+2026-03-22 03:00:00,22.4,69,2.2,0.0,0,0,Pune,2026-03-22,3,Sunday,Night,Clear
+2026-03-22 04:00:00,22.0,69,2.6,0.0,0,0,Pune,2026-03-22,4,Sunday,Night,Clear
+2026-03-22 05:00:00,21.7,69,1.0,0.0,0,0,Pune,2026-03-22,5,Sunday,Morning,Clear
+2026-03-22 06:00:00,21.4,69,1.4,0.0,0,0,Pune,2026-03-22,6,Sunday,Morning,Clear
+2026-03-22 07:00:00,21.7,69,1.1,0.0,0,0,Pune,2026-03-22,7,Sunday,Morning,Clear
+2026-03-22 08:00:00,25.0,58,2.2,0.0,0,0,Pune,2026-03-22,8,Sunday,Morning,Clear
+2026-03-22 09:00:00,28.0,40,8.1,0.0,0,0,Pune,2026-03-22,9,Sunday,Morning,Clear
+2026-03-22 10:00:00,30.4,34,11.4,0.0,0,0,Pune,2026-03-22,10,Sunday,Morning,Clear
+2026-03-22 11:00:00,32.5,29,11.6,0.0,0,0,Pune,2026-03-22,11,Sunday,Morning,Clear
+2026-03-22 12:00:00,34.1,25,10.4,0.0,0,0,Pune,2026-03-22,12,Sunday,Afternoon,Clear
+2026-03-22 13:00:00,35.3,21,6.6,0.0,0,0,Pune,2026-03-22,13,Sunday,Afternoon,Clear
+2026-03-22 14:00:00,35.9,19,2.7,0.0,0,0,Pune,2026-03-22,14,Sunday,Afternoon,Clear
+2026-03-22 15:00:00,35.9,18,2.7,0.0,10,1,Pune,2026-03-22,15,Sunday,Afternoon,Mainly Clear
+2026-03-22 16:00:00,35.7,18,4.7,0.0,29,1,Pune,2026-03-22,16,Sunday,Afternoon,Mainly Clear
+2026-03-22 17:00:00,35.0,18,5.6,0.0,14,1,Pune,2026-03-22,17,Sunday,Evening,Mainly Clear
+2026-03-22 18:00:00,33.5,20,4.2,0.0,15,1,Pune,2026-03-22,18,Sunday,Evening,Mainly Clear
+2026-03-22 19:00:00,30.5,30,7.6,0.0,18,1,Pune,2026-03-22,19,Sunday,Evening,Mainly Clear
+2026-03-22 20:00:00,28.7,45,5.8,0.0,6,1,Pune,2026-03-22,20,Sunday,Evening,Mainly Clear
+2026-03-22 21:00:00,27.4,49,4.1,0.0,0,0,Pune,2026-03-22,21,Sunday,Night,Clear
+2026-03-22 22:00:00,26.5,51,3.4,0.0,0,0,Pune,2026-03-22,22,Sunday,Night,Clear
+2026-03-22 23:00:00,25.5,54,3.3,0.0,0,0,Pune,2026-03-22,23,Sunday,Night,Clear
+2026-03-23 00:00:00,24.6,56,3.1,0.0,0,0,Pune,2026-03-23,0,Monday,Night,Clear
+2026-03-23 01:00:00,23.6,61,2.3,0.0,98,3,Pune,2026-03-23,1,Monday,Night,Overcast
+2026-03-23 02:00:00,23.7,58,2.1,0.0,0,0,Pune,2026-03-23,2,Monday,Night,Clear
+2026-03-23 03:00:00,23.4,58,1.5,0.0,4,0,Pune,2026-03-23,3,Monday,Night,Clear
+2026-03-23 04:00:00,23.3,57,1.6,0.0,21,1,Pune,2026-03-23,4,Monday,Night,Mainly Clear
+2026-03-23 05:00:00,23.5,55,2.1,0.0,18,1,Pune,2026-03-23,5,Monday,Morning,Mainly Clear
+2026-03-23 06:00:00,23.7,52,3.0,0.0,13,1,Pune,2026-03-23,6,Monday,Morning,Mainly Clear
+2026-03-23 07:00:00,24.6,48,2.5,0.0,5,0,Pune,2026-03-23,7,Monday,Morning,Clear
+2026-03-23 08:00:00,27.0,40,3.1,0.0,20,1,Pune,2026-03-23,8,Monday,Morning,Mainly Clear
+2026-03-23 09:00:00,29.4,31,8.4,0.0,16,1,Pune,2026-03-23,9,Monday,Morning,Mainly Clear
+2026-03-23 10:00:00,31.7,28,10.4,0.0,0,0,Pune,2026-03-23,10,Monday,Morning,Clear
+2026-03-23 11:00:00,33.7,29,10.8,0.0,0,0,Pune,2026-03-23,11,Monday,Morning,Clear
+2026-03-23 12:00:00,35.3,28,10.1,0.0,0,0,Pune,2026-03-23,12,Monday,Afternoon,Clear
+2026-03-23 13:00:00,36.5,26,6.1,0.0,0,0,Pune,2026-03-23,13,Monday,Afternoon,Clear
+2026-03-23 14:00:00,36.9,23,3.1,0.0,57,2,Pune,2026-03-23,14,Monday,Afternoon,Partly Cloudy
+2026-03-23 15:00:00,37.0,21,6.3,0.0,31,1,Pune,2026-03-23,15,Monday,Afternoon,Mainly Clear
+2026-03-23 16:00:00,36.7,20,5.5,0.0,23,1,Pune,2026-03-23,16,Monday,Afternoon,Mainly Clear
+2026-03-23 17:00:00,36.3,19,4.3,0.0,76,2,Pune,2026-03-23,17,Monday,Evening,Partly Cloudy
+2026-03-23 18:00:00,33.9,27,14.0,0.0,78,2,Pune,2026-03-23,18,Monday,Evening,Partly Cloudy
+2026-03-23 19:00:00,31.3,33,8.3,0.0,32,1,Pune,2026-03-23,19,Monday,Evening,Mainly Clear
+2026-03-23 20:00:00,30.0,35,5.4,0.0,45,2,Pune,2026-03-23,20,Monday,Evening,Partly Cloudy
+2026-03-23 21:00:00,28.9,37,4.7,0.0,31,1,Pune,2026-03-23,21,Monday,Night,Mainly Clear
+2026-03-23 22:00:00,27.6,41,3.7,0.0,14,1,Pune,2026-03-23,22,Monday,Night,Mainly Clear
+2026-03-23 23:00:00,26.8,45,3.4,0.0,24,1,Pune,2026-03-23,23,Monday,Night,Mainly Clear
+2026-03-24 00:00:00,26.2,47,2.8,0.0,19,1,Pune,2026-03-24,0,Tuesday,Night,Mainly Clear
+2026-03-24 01:00:00,25.8,49,2.3,0.0,14,1,Pune,2026-03-24,1,Tuesday,Night,Mainly Clear
+2026-03-24 02:00:00,25.4,50,2.1,0.0,9,1,Pune,2026-03-24,2,Tuesday,Night,Mainly Clear
+2026-03-24 03:00:00,24.6,51,2.6,0.0,6,0,Pune,2026-03-24,3,Tuesday,Night,Clear
+2026-03-24 04:00:00,23.8,53,3.1,0.0,3,0,Pune,2026-03-24,4,Tuesday,Night,Clear
+2026-03-24 05:00:00,23.7,53,3.1,0.0,0,0,Pune,2026-03-24,5,Tuesday,Morning,Clear
+2026-03-24 06:00:00,24.4,53,2.9,0.0,0,0,Pune,2026-03-24,6,Tuesday,Morning,Clear
+2026-03-24 07:00:00,25.8,52,2.2,0.0,0,0,Pune,2026-03-24,7,Tuesday,Morning,Clear
+2026-03-24 08:00:00,27.5,49,1.8,0.0,0,0,Pune,2026-03-24,8,Tuesday,Morning,Clear
+2026-03-24 09:00:00,29.9,41,4.0,0.0,2,1,Pune,2026-03-24,9,Tuesday,Morning,Mainly Clear
+2026-03-24 10:00:00,32.7,31,7.8,0.0,5,1,Pune,2026-03-24,10,Tuesday,Morning,Mainly Clear
+2026-03-24 11:00:00,35.0,23,9.6,0.0,7,1,Pune,2026-03-24,11,Tuesday,Morning,Mainly Clear
+2026-03-24 12:00:00,36.6,19,8.2,0.0,5,0,Pune,2026-03-24,12,Tuesday,Afternoon,Clear
+2026-03-24 13:00:00,37.6,18,5.4,0.0,2,0,Pune,2026-03-24,13,Tuesday,Afternoon,Clear
+2026-03-24 14:00:00,37.8,19,4.0,0.0,0,0,Pune,2026-03-24,14,Tuesday,Afternoon,Clear
+2026-03-24 15:00:00,36.8,24,6.6,0.0,15,2,Pune,2026-03-24,15,Tuesday,Afternoon,Partly Cloudy
+2026-03-24 16:00:00,35.0,32,11.3,0.0,30,2,Pune,2026-03-24,16,Tuesday,Afternoon,Partly Cloudy
+2026-03-24 17:00:00,33.3,38,13.9,0.0,45,2,Pune,2026-03-24,17,Tuesday,Evening,Partly Cloudy
+2026-03-24 18:00:00,31.9,41,12.2,0.0,44,1,Pune,2026-03-24,18,Tuesday,Evening,Mainly Clear
+2026-03-24 19:00:00,30.7,43,8.0,0.0,44,1,Pune,2026-03-24,19,Tuesday,Evening,Mainly Clear
+2026-03-24 20:00:00,29.5,45,4.7,0.0,43,1,Pune,2026-03-24,20,Tuesday,Evening,Mainly Clear
+2026-03-24 21:00:00,28.5,47,3.4,0.0,45,2,Pune,2026-03-24,21,Tuesday,Night,Partly Cloudy
+2026-03-24 22:00:00,27.5,48,3.6,0.0,47,2,Pune,2026-03-24,22,Tuesday,Night,Partly Cloudy
+2026-03-24 23:00:00,26.6,50,3.6,0.0,49,2,Pune,2026-03-24,23,Tuesday,Night,Partly Cloudy
+2026-03-25 00:00:00,25.7,54,3.4,0.0,58,2,Pune,2026-03-25,0,Wednesday,Night,Partly Cloudy
+2026-03-25 01:00:00,24.8,58,3.6,0.0,66,2,Pune,2026-03-25,1,Wednesday,Night,Partly Cloudy
+2026-03-25 02:00:00,24.2,62,3.7,0.0,75,2,Pune,2026-03-25,2,Wednesday,Night,Partly Cloudy
+2026-03-25 03:00:00,23.7,65,3.2,0.0,70,2,Pune,2026-03-25,3,Wednesday,Night,Partly Cloudy
+2026-03-25 04:00:00,23.4,66,2.7,0.0,65,2,Pune,2026-03-25,4,Wednesday,Night,Partly Cloudy
+2026-03-25 05:00:00,23.5,66,3.1,0.0,60,2,Pune,2026-03-25,5,Wednesday,Morning,Partly Cloudy
+2026-03-25 06:00:00,24.3,63,3.1,0.0,40,0,Pune,2026-03-25,6,Wednesday,Morning,Clear
+2026-03-25 07:00:00,25.5,57,2.8,0.0,20,0,Pune,2026-03-25,7,Wednesday,Morning,Clear
+2026-03-25 08:00:00,27.3,51,2.3,0.0,0,0,Pune,2026-03-25,8,Wednesday,Morning,Clear
+2026-03-25 09:00:00,29.9,43,0.5,0.0,2,0,Pune,2026-03-25,9,Wednesday,Morning,Clear
+2026-03-25 10:00:00,33.0,33,3.0,0.0,4,0,Pune,2026-03-25,10,Wednesday,Morning,Clear
+2026-03-25 11:00:00,35.4,26,4.3,0.0,6,0,Pune,2026-03-25,11,Wednesday,Morning,Clear
+2026-03-25 12:00:00,36.7,22,4.8,0.0,37,3,Pune,2026-03-25,12,Wednesday,Afternoon,Overcast
+2026-03-25 13:00:00,37.3,21,9.4,0.0,69,3,Pune,2026-03-25,13,Wednesday,Afternoon,Overcast
+2026-03-25 14:00:00,37.3,22,13.0,0.0,100,3,Pune,2026-03-25,14,Wednesday,Afternoon,Overcast
+2026-03-25 15:00:00,36.7,25,13.0,0.0,67,0,Pune,2026-03-25,15,Wednesday,Afternoon,Clear
+2026-03-25 16:00:00,35.4,31,11.2,0.0,33,0,Pune,2026-03-25,16,Wednesday,Afternoon,Clear
+2026-03-25 17:00:00,33.6,38,8.8,0.0,0,0,Pune,2026-03-25,17,Wednesday,Evening,Clear
+2026-03-25 18:00:00,31.1,48,6.4,0.8,5,80,Pune,2026-03-25,18,Wednesday,Evening,Showers
+2026-03-25 19:00:00,28.1,59,5.3,0.8,9,80,Pune,2026-03-25,19,Wednesday,Evening,Showers
+2026-03-25 20:00:00,25.8,68,5.4,0.8,14,80,Pune,2026-03-25,20,Wednesday,Evening,Showers
+2026-03-25 21:00:00,24.8,74,4.7,0.0,29,2,Pune,2026-03-25,21,Wednesday,Night,Partly Cloudy
+2026-03-25 22:00:00,24.5,79,3.1,0.0,44,2,Pune,2026-03-25,22,Wednesday,Night,Partly Cloudy
+2026-03-25 23:00:00,24.2,82,2.3,0.0,59,2,Pune,2026-03-25,23,Wednesday,Night,Partly Cloudy
+2026-03-26 00:00:00,23.7,85,1.9,0.0,42,1,Pune,2026-03-26,0,Thursday,Night,Mainly Clear
+2026-03-26 01:00:00,23.3,86,2.5,0.0,25,1,Pune,2026-03-26,1,Thursday,Night,Mainly Clear
+2026-03-26 02:00:00,22.8,88,3.1,0.0,8,1,Pune,2026-03-26,2,Thursday,Night,Mainly Clear
+2026-03-26 03:00:00,22.1,90,2.9,0.0,9,1,Pune,2026-03-26,3,Thursday,Night,Mainly Clear
+2026-03-26 04:00:00,21.4,92,3.1,0.0,10,1,Pune,2026-03-26,4,Thursday,Night,Mainly Clear
+2026-03-26 05:00:00,21.4,92,3.1,0.0,11,1,Pune,2026-03-26,5,Thursday,Morning,Mainly Clear
+2026-03-26 06:00:00,22.4,90,2.5,0.0,7,0,Pune,2026-03-26,6,Thursday,Morning,Clear
+2026-03-26 07:00:00,24.2,86,1.5,0.0,4,0,Pune,2026-03-26,7,Thursday,Morning,Clear
+2026-03-26 08:00:00,26.4,79,0.5,0.0,0,0,Pune,2026-03-26,8,Thursday,Morning,Clear
+2026-03-26 09:00:00,29.1,65,1.3,0.0,1,0,Pune,2026-03-26,9,Thursday,Morning,Clear
+2026-03-26 10:00:00,32.3,48,3.7,0.0,2,0,Pune,2026-03-26,10,Thursday,Morning,Clear
+2026-03-26 11:00:00,34.8,34,4.4,0.0,3,0,Pune,2026-03-26,11,Thursday,Morning,Clear
+2026-03-26 12:00:00,36.2,27,2.3,0.0,5,1,Pune,2026-03-26,12,Thursday,Afternoon,Mainly Clear
+2026-03-26 13:00:00,37.0,24,2.3,0.0,6,1,Pune,2026-03-26,13,Thursday,Afternoon,Mainly Clear
+2026-03-26 14:00:00,37.3,24,5.0,0.0,8,1,Pune,2026-03-26,14,Thursday,Afternoon,Mainly Clear
+2026-03-26 15:00:00,36.8,26,7.2,0.1,12,80,Pune,2026-03-26,15,Thursday,Afternoon,Showers
+2026-03-26 16:00:00,35.8,30,9.1,0.1,16,80,Pune,2026-03-26,16,Thursday,Afternoon,Showers
+2026-03-26 17:00:00,34.6,35,10.0,0.1,20,80,Pune,2026-03-26,17,Thursday,Evening,Showers
+2026-03-26 18:00:00,33.3,41,8.5,0.0,13,0,Pune,2026-03-26,18,Thursday,Evening,Clear
+2026-03-26 19:00:00,31.8,48,5.5,0.0,7,0,Pune,2026-03-26,19,Thursday,Evening,Clear
+2026-03-26 20:00:00,30.4,55,3.3,0.0,0,0,Pune,2026-03-26,20,Thursday,Evening,Clear
+2026-03-26 21:00:00,29.1,61,2.5,0.0,0,0,Pune,2026-03-26,21,Thursday,Night,Clear
+2026-03-26 22:00:00,27.9,66,2.2,0.0,0,0,Pune,2026-03-26,22,Thursday,Night,Clear
+2026-03-26 23:00:00,26.8,70,2.2,0.0,0,0,Pune,2026-03-26,23,Thursday,Night,Clear
+2026-03-20 00:00:00,27.0,70,8.6,0.0,52,2,Mumbai,2026-03-20,0,Friday,Night,Partly Cloudy
+2026-03-20 01:00:00,26.9,70,5.9,0.0,48,2,Mumbai,2026-03-20,1,Friday,Night,Partly Cloudy
+2026-03-20 02:00:00,26.7,70,4.0,0.0,49,2,Mumbai,2026-03-20,2,Friday,Night,Partly Cloudy
+2026-03-20 03:00:00,26.6,69,3.3,0.0,41,1,Mumbai,2026-03-20,3,Friday,Night,Mainly Clear
+2026-03-20 04:00:00,26.4,70,3.2,0.0,31,1,Mumbai,2026-03-20,4,Friday,Night,Mainly Clear
+2026-03-20 05:00:00,26.3,69,3.1,0.0,46,1,Mumbai,2026-03-20,5,Friday,Morning,Mainly Clear
+2026-03-20 06:00:00,26.2,71,4.0,0.0,37,1,Mumbai,2026-03-20,6,Friday,Morning,Mainly Clear
+2026-03-20 07:00:00,25.9,75,3.8,0.0,3,0,Mumbai,2026-03-20,7,Friday,Morning,Clear
+2026-03-20 08:00:00,25.8,76,3.5,0.0,1,0,Mumbai,2026-03-20,8,Friday,Morning,Clear
+2026-03-20 09:00:00,26.1,74,4.3,0.0,8,1,Mumbai,2026-03-20,9,Friday,Morning,Mainly Clear
+2026-03-20 10:00:00,26.5,72,6.6,0.0,28,1,Mumbai,2026-03-20,10,Friday,Morning,Mainly Clear
+2026-03-20 11:00:00,26.5,74,8.0,0.0,8,1,Mumbai,2026-03-20,11,Friday,Morning,Mainly Clear
+2026-03-20 12:00:00,26.6,75,9.2,0.0,23,1,Mumbai,2026-03-20,12,Friday,Afternoon,Mainly Clear
+2026-03-20 13:00:00,26.9,71,12.6,0.0,14,1,Mumbai,2026-03-20,13,Friday,Afternoon,Mainly Clear
+2026-03-20 14:00:00,27.0,70,14.1,0.0,9,1,Mumbai,2026-03-20,14,Friday,Afternoon,Mainly Clear
+2026-03-20 15:00:00,27.0,72,15.4,0.0,3,0,Mumbai,2026-03-20,15,Friday,Afternoon,Clear
+2026-03-20 16:00:00,27.1,74,16.9,0.0,5,0,Mumbai,2026-03-20,16,Friday,Afternoon,Clear
+2026-03-20 17:00:00,27.7,73,15.0,0.0,0,1,Mumbai,2026-03-20,17,Friday,Evening,Mainly Clear
+2026-03-20 18:00:00,27.5,76,15.5,0.0,9,1,Mumbai,2026-03-20,18,Friday,Evening,Mainly Clear
+2026-03-20 19:00:00,27.4,78,14.1,0.0,2,0,Mumbai,2026-03-20,19,Friday,Evening,Clear
+2026-03-20 20:00:00,27.1,82,13.7,0.0,21,1,Mumbai,2026-03-20,20,Friday,Evening,Mainly Clear
+2026-03-20 21:00:00,27.0,82,11.8,0.0,20,1,Mumbai,2026-03-20,21,Friday,Night,Mainly Clear
+2026-03-20 22:00:00,26.9,82,9.6,0.0,20,1,Mumbai,2026-03-20,22,Friday,Night,Mainly Clear
+2026-03-20 23:00:00,26.9,81,9.1,0.0,32,1,Mumbai,2026-03-20,23,Friday,Night,Mainly Clear
+2026-03-21 00:00:00,26.7,80,9.4,0.0,31,1,Mumbai,2026-03-21,0,Saturday,Night,Mainly Clear
+2026-03-21 01:00:00,26.5,80,10.1,0.0,29,1,Mumbai,2026-03-21,1,Saturday,Night,Mainly Clear
+2026-03-21 02:00:00,26.3,79,10.5,0.0,6,0,Mumbai,2026-03-21,2,Saturday,Night,Clear
+2026-03-21 03:00:00,26.1,80,10.9,0.0,0,0,Mumbai,2026-03-21,3,Saturday,Night,Clear
+2026-03-21 04:00:00,26.0,79,11.0,0.0,0,0,Mumbai,2026-03-21,4,Saturday,Night,Clear
+2026-03-21 05:00:00,25.9,78,10.4,0.0,0,0,Mumbai,2026-03-21,5,Saturday,Morning,Clear
+2026-03-21 06:00:00,25.8,77,9.9,0.0,0,0,Mumbai,2026-03-21,6,Saturday,Morning,Clear
+2026-03-21 07:00:00,25.8,77,9.7,0.0,0,0,Mumbai,2026-03-21,7,Saturday,Morning,Clear
+2026-03-21 08:00:00,25.9,75,10.4,0.0,0,0,Mumbai,2026-03-21,8,Saturday,Morning,Clear
+2026-03-21 09:00:00,26.6,68,10.9,0.0,0,0,Mumbai,2026-03-21,9,Saturday,Morning,Clear
+2026-03-21 10:00:00,27.8,62,10.9,0.0,0,0,Mumbai,2026-03-21,10,Saturday,Morning,Clear
+2026-03-21 11:00:00,28.7,59,10.6,0.0,0,0,Mumbai,2026-03-21,11,Saturday,Morning,Clear
+2026-03-21 12:00:00,28.3,66,13.3,0.0,0,0,Mumbai,2026-03-21,12,Saturday,Afternoon,Clear
+2026-03-21 13:00:00,27.7,73,17.3,0.0,0,0,Mumbai,2026-03-21,13,Saturday,Afternoon,Clear
+2026-03-21 14:00:00,27.8,71,18.9,0.0,0,0,Mumbai,2026-03-21,14,Saturday,Afternoon,Clear
+2026-03-21 15:00:00,27.8,69,19.9,0.0,0,0,Mumbai,2026-03-21,15,Saturday,Afternoon,Clear
+2026-03-21 16:00:00,27.8,67,20.6,0.0,0,0,Mumbai,2026-03-21,16,Saturday,Afternoon,Clear
+2026-03-21 17:00:00,27.8,69,21.6,0.0,0,0,Mumbai,2026-03-21,17,Saturday,Evening,Clear
+2026-03-21 18:00:00,27.8,69,19.5,0.0,0,0,Mumbai,2026-03-21,18,Saturday,Evening,Clear
+2026-03-21 19:00:00,27.7,69,18.7,0.0,0,0,Mumbai,2026-03-21,19,Saturday,Evening,Clear
+2026-03-21 20:00:00,27.7,70,17.7,0.0,0,0,Mumbai,2026-03-21,20,Saturday,Evening,Clear
+2026-03-21 21:00:00,27.9,66,17.2,0.0,0,0,Mumbai,2026-03-21,21,Saturday,Night,Clear
+2026-03-21 22:00:00,27.9,65,13.2,0.0,0,0,Mumbai,2026-03-21,22,Saturday,Night,Clear
+2026-03-21 23:00:00,27.8,64,11.2,0.0,0,0,Mumbai,2026-03-21,23,Saturday,Night,Clear
+2026-03-22 00:00:00,27.6,64,10.1,0.0,0,0,Mumbai,2026-03-22,0,Sunday,Night,Clear
+2026-03-22 01:00:00,27.5,64,9.9,0.0,0,0,Mumbai,2026-03-22,1,Sunday,Night,Clear
+2026-03-22 02:00:00,27.5,63,10.8,0.0,0,0,Mumbai,2026-03-22,2,Sunday,Night,Clear
+2026-03-22 03:00:00,27.4,64,12.3,0.0,0,0,Mumbai,2026-03-22,3,Sunday,Night,Clear
+2026-03-22 04:00:00,27.2,65,14.3,0.0,0,0,Mumbai,2026-03-22,4,Sunday,Night,Clear
+2026-03-22 05:00:00,27.0,68,15.0,0.0,0,0,Mumbai,2026-03-22,5,Sunday,Morning,Clear
+2026-03-22 06:00:00,26.9,67,15.5,0.0,12,1,Mumbai,2026-03-22,6,Sunday,Morning,Mainly Clear
+2026-03-22 07:00:00,26.6,68,14.5,0.0,8,1,Mumbai,2026-03-22,7,Sunday,Morning,Mainly Clear
+2026-03-22 08:00:00,26.6,66,12.6,0.0,0,0,Mumbai,2026-03-22,8,Sunday,Morning,Clear
+2026-03-22 09:00:00,27.4,58,11.6,0.0,0,0,Mumbai,2026-03-22,9,Sunday,Morning,Clear
+2026-03-22 10:00:00,28.5,53,10.4,0.0,0,0,Mumbai,2026-03-22,10,Sunday,Morning,Clear
+2026-03-22 11:00:00,29.2,52,9.5,0.0,0,0,Mumbai,2026-03-22,11,Sunday,Morning,Clear
+2026-03-22 12:00:00,28.9,60,11.5,0.0,0,0,Mumbai,2026-03-22,12,Sunday,Afternoon,Clear
+2026-03-22 13:00:00,27.9,71,17.3,0.0,0,0,Mumbai,2026-03-22,13,Sunday,Afternoon,Clear
+2026-03-22 14:00:00,28.1,69,18.6,0.0,6,0,Mumbai,2026-03-22,14,Sunday,Afternoon,Clear
+2026-03-22 15:00:00,28.3,63,21.2,0.0,11,1,Mumbai,2026-03-22,15,Sunday,Afternoon,Mainly Clear
+2026-03-22 16:00:00,28.3,63,21.5,0.0,0,0,Mumbai,2026-03-22,16,Sunday,Afternoon,Clear
+2026-03-22 17:00:00,28.6,61,20.9,0.0,0,0,Mumbai,2026-03-22,17,Sunday,Evening,Clear
+2026-03-22 18:00:00,28.8,60,18.7,0.0,0,0,Mumbai,2026-03-22,18,Sunday,Evening,Clear
+2026-03-22 19:00:00,28.9,60,18.2,0.0,0,0,Mumbai,2026-03-22,19,Sunday,Evening,Clear
+2026-03-22 20:00:00,29.0,61,17.9,0.0,0,0,Mumbai,2026-03-22,20,Sunday,Evening,Clear
+2026-03-22 21:00:00,29.0,62,14.4,0.0,0,0,Mumbai,2026-03-22,21,Sunday,Night,Clear
+2026-03-22 22:00:00,28.9,63,12.0,0.0,0,0,Mumbai,2026-03-22,22,Sunday,Night,Clear
+2026-03-22 23:00:00,28.8,64,10.4,0.0,0,0,Mumbai,2026-03-22,23,Sunday,Night,Clear
+2026-03-23 00:00:00,28.7,64,11.8,0.0,41,1,Mumbai,2026-03-23,0,Monday,Night,Mainly Clear
+2026-03-23 01:00:00,28.4,65,14.1,0.0,2,0,Mumbai,2026-03-23,1,Monday,Night,Clear
+2026-03-23 02:00:00,28.1,67,14.5,0.0,19,1,Mumbai,2026-03-23,2,Monday,Night,Mainly Clear
+2026-03-23 03:00:00,27.9,67,13.7,0.0,100,3,Mumbai,2026-03-23,3,Monday,Night,Overcast
+2026-03-23 04:00:00,27.8,68,13.5,0.0,26,1,Mumbai,2026-03-23,4,Monday,Night,Mainly Clear
+2026-03-23 05:00:00,27.6,69,13.0,0.0,17,1,Mumbai,2026-03-23,5,Monday,Morning,Mainly Clear
+2026-03-23 06:00:00,27.6,67,12.6,0.0,68,2,Mumbai,2026-03-23,6,Monday,Morning,Partly Cloudy
+2026-03-23 07:00:00,27.6,65,12.4,0.0,0,0,Mumbai,2026-03-23,7,Monday,Morning,Clear
+2026-03-23 08:00:00,27.7,63,12.5,0.0,63,2,Mumbai,2026-03-23,8,Monday,Morning,Partly Cloudy
+2026-03-23 09:00:00,28.7,54,11.8,0.0,0,0,Mumbai,2026-03-23,9,Monday,Morning,Clear
+2026-03-23 10:00:00,29.7,53,11.2,0.0,0,0,Mumbai,2026-03-23,10,Monday,Morning,Clear
+2026-03-23 11:00:00,30.3,54,9.2,0.0,0,0,Mumbai,2026-03-23,11,Monday,Morning,Clear
+2026-03-23 12:00:00,29.8,62,10.2,0.0,0,0,Mumbai,2026-03-23,12,Monday,Afternoon,Clear
+2026-03-23 13:00:00,28.9,67,17.2,0.0,0,0,Mumbai,2026-03-23,13,Monday,Afternoon,Clear
+2026-03-23 14:00:00,28.6,67,19.1,0.0,0,0,Mumbai,2026-03-23,14,Monday,Afternoon,Clear
+2026-03-23 15:00:00,28.7,68,19.2,0.0,0,0,Mumbai,2026-03-23,15,Monday,Afternoon,Clear
+2026-03-23 16:00:00,28.9,65,19.2,0.0,0,0,Mumbai,2026-03-23,16,Monday,Afternoon,Clear
+2026-03-23 17:00:00,29.2,63,19.3,0.0,0,0,Mumbai,2026-03-23,17,Monday,Evening,Clear
+2026-03-23 18:00:00,29.2,64,19.2,0.0,0,0,Mumbai,2026-03-23,18,Monday,Evening,Clear
+2026-03-23 19:00:00,29.3,64,17.4,0.0,0,0,Mumbai,2026-03-23,19,Monday,Evening,Clear
+2026-03-23 20:00:00,29.4,64,14.7,0.0,0,0,Mumbai,2026-03-23,20,Monday,Evening,Clear
+2026-03-23 21:00:00,29.4,63,12.1,0.0,0,0,Mumbai,2026-03-23,21,Monday,Night,Clear
+2026-03-23 22:00:00,29.3,64,9.6,0.0,0,0,Mumbai,2026-03-23,22,Monday,Night,Clear
+2026-03-23 23:00:00,29.1,67,9.7,0.0,0,0,Mumbai,2026-03-23,23,Monday,Night,Clear
+2026-03-24 00:00:00,28.8,69,10.3,0.0,2,0,Mumbai,2026-03-24,0,Tuesday,Night,Clear
+2026-03-24 01:00:00,28.4,72,11.8,0.0,3,0,Mumbai,2026-03-24,1,Tuesday,Night,Clear
+2026-03-24 02:00:00,28.1,75,12.9,0.0,5,0,Mumbai,2026-03-24,2,Tuesday,Night,Clear
+2026-03-24 03:00:00,27.8,77,13.6,0.0,3,0,Mumbai,2026-03-24,3,Tuesday,Night,Clear
+2026-03-24 04:00:00,27.6,79,13.8,0.0,2,0,Mumbai,2026-03-24,4,Tuesday,Night,Clear
+2026-03-24 05:00:00,27.5,80,13.9,0.0,0,0,Mumbai,2026-03-24,5,Tuesday,Morning,Clear
+2026-03-24 06:00:00,27.5,78,13.0,0.0,3,1,Mumbai,2026-03-24,6,Tuesday,Morning,Mainly Clear
+2026-03-24 07:00:00,27.6,75,11.2,0.0,7,1,Mumbai,2026-03-24,7,Tuesday,Morning,Mainly Clear
+2026-03-24 08:00:00,27.8,72,9.7,0.0,10,1,Mumbai,2026-03-24,8,Tuesday,Morning,Mainly Clear
+2026-03-24 09:00:00,28.0,71,8.0,0.0,14,1,Mumbai,2026-03-24,9,Tuesday,Morning,Mainly Clear
+2026-03-24 10:00:00,28.4,70,7.1,0.0,17,1,Mumbai,2026-03-24,10,Tuesday,Morning,Mainly Clear
+2026-03-24 11:00:00,28.6,70,7.9,0.0,21,1,Mumbai,2026-03-24,11,Tuesday,Morning,Mainly Clear
+2026-03-24 12:00:00,28.6,72,9.7,0.0,17,1,Mumbai,2026-03-24,12,Tuesday,Afternoon,Mainly Clear
+2026-03-24 13:00:00,28.5,74,12.1,0.0,12,1,Mumbai,2026-03-24,13,Tuesday,Afternoon,Mainly Clear
+2026-03-24 14:00:00,28.4,75,13.9,0.0,8,1,Mumbai,2026-03-24,14,Tuesday,Afternoon,Mainly Clear
+2026-03-24 15:00:00,28.5,73,15.3,0.0,5,0,Mumbai,2026-03-24,15,Tuesday,Afternoon,Clear
+2026-03-24 16:00:00,28.7,70,15.9,0.0,3,0,Mumbai,2026-03-24,16,Tuesday,Afternoon,Clear
+2026-03-24 17:00:00,28.8,68,16.0,0.0,0,0,Mumbai,2026-03-24,17,Tuesday,Evening,Clear
+2026-03-24 18:00:00,28.8,67,14.3,0.0,1,0,Mumbai,2026-03-24,18,Tuesday,Evening,Clear
+2026-03-24 19:00:00,28.8,68,11.8,0.0,1,0,Mumbai,2026-03-24,19,Tuesday,Evening,Clear
+2026-03-24 20:00:00,28.8,68,9.5,0.0,2,0,Mumbai,2026-03-24,20,Tuesday,Evening,Clear
+2026-03-24 21:00:00,28.7,69,6.8,0.0,2,0,Mumbai,2026-03-24,21,Tuesday,Night,Clear
+2026-03-24 22:00:00,28.6,70,4.4,0.0,2,0,Mumbai,2026-03-24,22,Tuesday,Night,Clear
+2026-03-24 23:00:00,28.5,71,3.4,0.0,2,0,Mumbai,2026-03-24,23,Tuesday,Night,Clear
+2026-03-25 00:00:00,28.5,72,5.0,0.0,22,2,Mumbai,2026-03-25,0,Wednesday,Night,Partly Cloudy
+2026-03-25 01:00:00,28.4,72,7.8,0.0,42,2,Mumbai,2026-03-25,1,Wednesday,Night,Partly Cloudy
+2026-03-25 02:00:00,28.4,73,9.5,0.0,62,2,Mumbai,2026-03-25,2,Wednesday,Night,Partly Cloudy
+2026-03-25 03:00:00,28.2,74,8.7,0.0,62,2,Mumbai,2026-03-25,3,Wednesday,Night,Partly Cloudy
+2026-03-25 04:00:00,28.0,75,6.6,0.0,62,2,Mumbai,2026-03-25,4,Wednesday,Night,Partly Cloudy
+2026-03-25 05:00:00,27.9,76,5.0,0.0,62,2,Mumbai,2026-03-25,5,Wednesday,Morning,Partly Cloudy
+2026-03-25 06:00:00,27.8,76,4.2,0.0,64,2,Mumbai,2026-03-25,6,Wednesday,Morning,Partly Cloudy
+2026-03-25 07:00:00,27.8,77,3.3,0.0,67,2,Mumbai,2026-03-25,7,Wednesday,Morning,Partly Cloudy
+2026-03-25 08:00:00,27.9,77,3.3,0.0,69,2,Mumbai,2026-03-25,8,Wednesday,Morning,Partly Cloudy
+2026-03-25 09:00:00,27.9,78,4.4,0.0,65,2,Mumbai,2026-03-25,9,Wednesday,Morning,Partly Cloudy
+2026-03-25 10:00:00,28.0,79,6.0,0.0,62,2,Mumbai,2026-03-25,10,Wednesday,Morning,Partly Cloudy
+2026-03-25 11:00:00,28.0,79,8.1,0.0,58,2,Mumbai,2026-03-25,11,Wednesday,Morning,Partly Cloudy
+2026-03-25 12:00:00,28.1,78,11.0,0.0,40,0,Mumbai,2026-03-25,12,Wednesday,Afternoon,Clear
+2026-03-25 13:00:00,28.2,77,13.9,0.0,22,0,Mumbai,2026-03-25,13,Wednesday,Afternoon,Clear
+2026-03-25 14:00:00,28.2,77,16.0,0.0,4,0,Mumbai,2026-03-25,14,Wednesday,Afternoon,Clear
+2026-03-25 15:00:00,28.2,79,17.0,0.0,17,2,Mumbai,2026-03-25,15,Wednesday,Afternoon,Partly Cloudy
+2026-03-25 16:00:00,28.1,81,16.7,0.0,31,2,Mumbai,2026-03-25,16,Wednesday,Afternoon,Partly Cloudy
+2026-03-25 17:00:00,28.0,83,15.6,0.0,44,2,Mumbai,2026-03-25,17,Wednesday,Evening,Partly Cloudy
+2026-03-25 18:00:00,28.0,83,12.9,0.0,38,1,Mumbai,2026-03-25,18,Wednesday,Evening,Mainly Clear
+2026-03-25 19:00:00,28.0,83,8.9,0.0,32,1,Mumbai,2026-03-25,19,Wednesday,Evening,Mainly Clear
+2026-03-25 20:00:00,28.0,83,5.9,0.0,26,1,Mumbai,2026-03-25,20,Wednesday,Evening,Mainly Clear
+2026-03-25 21:00:00,27.9,83,3.9,0.0,26,1,Mumbai,2026-03-25,21,Wednesday,Night,Mainly Clear
+2026-03-25 22:00:00,27.8,84,3.3,0.0,25,1,Mumbai,2026-03-25,22,Wednesday,Night,Mainly Clear
+2026-03-25 23:00:00,27.7,84,3.7,0.0,25,1,Mumbai,2026-03-25,23,Wednesday,Night,Mainly Clear
+2026-03-26 00:00:00,27.6,84,3.4,0.0,28,1,Mumbai,2026-03-26,0,Thursday,Night,Mainly Clear
+2026-03-26 01:00:00,27.6,83,3.0,0.0,32,1,Mumbai,2026-03-26,1,Thursday,Night,Mainly Clear
+2026-03-26 02:00:00,27.5,83,2.6,0.0,35,1,Mumbai,2026-03-26,2,Thursday,Night,Mainly Clear
+2026-03-26 03:00:00,27.4,84,3.6,0.0,39,2,Mumbai,2026-03-26,3,Thursday,Night,Partly Cloudy
+2026-03-26 04:00:00,27.2,86,5.0,0.0,43,2,Mumbai,2026-03-26,4,Thursday,Night,Partly Cloudy
+2026-03-26 05:00:00,27.1,87,6.5,0.0,47,2,Mumbai,2026-03-26,5,Thursday,Morning,Partly Cloudy
+2026-03-26 06:00:00,27.0,87,7.7,0.0,52,2,Mumbai,2026-03-26,6,Thursday,Morning,Partly Cloudy
+2026-03-26 07:00:00,27.0,87,8.7,0.0,58,2,Mumbai,2026-03-26,7,Thursday,Morning,Partly Cloudy
+2026-03-26 08:00:00,27.1,86,9.4,0.0,63,2,Mumbai,2026-03-26,8,Thursday,Morning,Partly Cloudy
+2026-03-26 09:00:00,27.4,84,8.8,0.0,47,1,Mumbai,2026-03-26,9,Thursday,Morning,Mainly Clear
+2026-03-26 10:00:00,27.8,82,8.0,0.0,30,1,Mumbai,2026-03-26,10,Thursday,Morning,Mainly Clear
+2026-03-26 11:00:00,28.0,80,8.7,0.0,14,1,Mumbai,2026-03-26,11,Thursday,Morning,Mainly Clear
+2026-03-26 12:00:00,28.0,80,11.7,0.0,9,0,Mumbai,2026-03-26,12,Thursday,Afternoon,Clear
+2026-03-26 13:00:00,27.9,81,15.5,0.0,5,0,Mumbai,2026-03-26,13,Thursday,Afternoon,Clear
+2026-03-26 14:00:00,27.8,81,18.4,0.0,0,0,Mumbai,2026-03-26,14,Thursday,Afternoon,Clear
+2026-03-26 15:00:00,27.9,79,19.9,0.0,0,0,Mumbai,2026-03-26,15,Thursday,Afternoon,Clear
+2026-03-26 16:00:00,28.1,77,20.1,0.0,0,0,Mumbai,2026-03-26,16,Thursday,Afternoon,Clear
+2026-03-26 17:00:00,28.2,75,19.1,0.0,0,0,Mumbai,2026-03-26,17,Thursday,Evening,Clear
+2026-03-26 18:00:00,28.4,73,16.0,0.0,0,0,Mumbai,2026-03-26,18,Thursday,Evening,Clear
+2026-03-26 19:00:00,28.5,72,11.6,0.0,0,0,Mumbai,2026-03-26,19,Thursday,Evening,Clear
+2026-03-26 20:00:00,28.6,72,8.7,0.0,0,0,Mumbai,2026-03-26,20,Thursday,Evening,Clear
+2026-03-26 21:00:00,28.5,73,7.8,0.0,0,0,Mumbai,2026-03-26,21,Thursday,Night,Clear
+2026-03-26 22:00:00,28.4,75,8.0,0.0,0,0,Mumbai,2026-03-26,22,Thursday,Night,Clear
+2026-03-26 23:00:00,28.3,77,8.7,0.0,0,0,Mumbai,2026-03-26,23,Thursday,Night,Clear
+2026-03-20 00:00:00,18.4,86,4.6,0.0,100,3,Delhi,2026-03-20,0,Friday,Night,Overcast
+2026-03-20 01:00:00,18.3,87,4.0,0.0,100,3,Delhi,2026-03-20,1,Friday,Night,Overcast
+2026-03-20 02:00:00,18.2,87,3.6,0.0,100,3,Delhi,2026-03-20,2,Friday,Night,Overcast
+2026-03-20 03:00:00,17.9,88,5.2,0.0,98,3,Delhi,2026-03-20,3,Friday,Night,Overcast
+2026-03-20 04:00:00,17.6,89,4.4,0.0,100,3,Delhi,2026-03-20,4,Friday,Night,Overcast
+2026-03-20 05:00:00,17.4,88,5.2,0.0,100,3,Delhi,2026-03-20,5,Friday,Morning,Overcast
+2026-03-20 06:00:00,17.1,92,4.5,0.9,100,61,Delhi,2026-03-20,6,Friday,Morning,Rain
+2026-03-20 07:00:00,17.1,93,2.6,2.4,100,61,Delhi,2026-03-20,7,Friday,Morning,Rain
+2026-03-20 08:00:00,17.3,92,7.2,3.0,100,63,Delhi,2026-03-20,8,Friday,Morning,Other
+2026-03-20 09:00:00,17.8,90,6.4,0.7,100,61,Delhi,2026-03-20,9,Friday,Morning,Rain
+2026-03-20 10:00:00,18.6,84,4.4,0.0,100,3,Delhi,2026-03-20,10,Friday,Morning,Overcast
+2026-03-20 11:00:00,19.0,81,5.1,0.0,100,3,Delhi,2026-03-20,11,Friday,Morning,Overcast
+2026-03-20 12:00:00,19.8,74,3.7,0.0,100,3,Delhi,2026-03-20,12,Friday,Afternoon,Overcast
+2026-03-20 13:00:00,19.5,75,3.8,0.1,100,3,Delhi,2026-03-20,13,Friday,Afternoon,Overcast
+2026-03-20 14:00:00,19.6,75,4.8,0.2,100,80,Delhi,2026-03-20,14,Friday,Afternoon,Showers
+2026-03-20 15:00:00,19.4,76,5.2,0.3,99,80,Delhi,2026-03-20,15,Friday,Afternoon,Showers
+2026-03-20 16:00:00,18.9,80,6.8,0.5,100,80,Delhi,2026-03-20,16,Friday,Afternoon,Showers
+2026-03-20 17:00:00,20.0,75,5.1,0.2,100,61,Delhi,2026-03-20,17,Friday,Evening,Rain
+2026-03-20 18:00:00,19.6,75,5.5,0.0,100,3,Delhi,2026-03-20,18,Friday,Evening,Overcast
+2026-03-20 19:00:00,18.9,81,4.4,0.0,100,3,Delhi,2026-03-20,19,Friday,Evening,Overcast
+2026-03-20 20:00:00,18.3,86,4.4,0.0,38,1,Delhi,2026-03-20,20,Friday,Evening,Mainly Clear
+2026-03-20 21:00:00,17.7,90,3.4,0.0,7,1,Delhi,2026-03-20,21,Friday,Night,Mainly Clear
+2026-03-20 22:00:00,17.2,92,2.5,0.0,0,0,Delhi,2026-03-20,22,Friday,Night,Clear
+2026-03-20 23:00:00,16.8,94,1.6,0.0,9,1,Delhi,2026-03-20,23,Friday,Night,Mainly Clear
+2026-03-21 00:00:00,16.3,97,2.5,0.0,23,45,Delhi,2026-03-21,0,Saturday,Night,Fog
+2026-03-21 01:00:00,15.9,98,2.3,0.0,44,45,Delhi,2026-03-21,1,Saturday,Night,Fog
+2026-03-21 02:00:00,15.6,100,2.7,0.0,66,45,Delhi,2026-03-21,2,Saturday,Night,Fog
+2026-03-21 03:00:00,15.4,100,3.1,0.0,83,45,Delhi,2026-03-21,3,Saturday,Night,Fog
+2026-03-21 04:00:00,15.2,100,4.8,0.0,88,3,Delhi,2026-03-21,4,Saturday,Night,Overcast
+2026-03-21 05:00:00,15.0,100,5.1,0.0,98,3,Delhi,2026-03-21,5,Saturday,Morning,Overcast
+2026-03-21 06:00:00,14.9,100,4.1,0.0,93,45,Delhi,2026-03-21,6,Saturday,Morning,Fog
+2026-03-21 07:00:00,15.2,97,3.6,0.0,82,45,Delhi,2026-03-21,7,Saturday,Morning,Fog
+2026-03-21 08:00:00,16.1,92,4.0,0.0,79,45,Delhi,2026-03-21,8,Saturday,Morning,Fog
+2026-03-21 09:00:00,18.2,82,4.7,0.0,53,2,Delhi,2026-03-21,9,Saturday,Morning,Partly Cloudy
+2026-03-21 10:00:00,20.3,73,5.8,0.0,44,1,Delhi,2026-03-21,10,Saturday,Morning,Mainly Clear
+2026-03-21 11:00:00,22.5,62,6.8,0.0,30,1,Delhi,2026-03-21,11,Saturday,Morning,Mainly Clear
+2026-03-21 12:00:00,24.1,53,7.6,0.0,100,3,Delhi,2026-03-21,12,Saturday,Afternoon,Overcast
+2026-03-21 13:00:00,25.2,47,8.2,0.0,72,2,Delhi,2026-03-21,13,Saturday,Afternoon,Partly Cloudy
+2026-03-21 14:00:00,25.7,44,9.4,0.0,31,1,Delhi,2026-03-21,14,Saturday,Afternoon,Mainly Clear
+2026-03-21 15:00:00,25.9,45,9.8,0.0,23,1,Delhi,2026-03-21,15,Saturday,Afternoon,Mainly Clear
+2026-03-21 16:00:00,25.8,45,9.5,0.0,0,0,Delhi,2026-03-21,16,Saturday,Afternoon,Clear
+2026-03-21 17:00:00,25.1,48,8.5,0.0,0,0,Delhi,2026-03-21,17,Saturday,Evening,Clear
+2026-03-21 18:00:00,23.6,57,4.9,0.0,5,0,Delhi,2026-03-21,18,Saturday,Evening,Clear
+2026-03-21 19:00:00,22.1,65,3.8,0.0,8,1,Delhi,2026-03-21,19,Saturday,Evening,Mainly Clear
+2026-03-21 20:00:00,21.2,68,4.1,0.0,73,2,Delhi,2026-03-21,20,Saturday,Evening,Partly Cloudy
+2026-03-21 21:00:00,20.4,71,4.1,0.0,44,2,Delhi,2026-03-21,21,Saturday,Night,Partly Cloudy
+2026-03-21 22:00:00,19.7,74,4.4,0.0,100,3,Delhi,2026-03-21,22,Saturday,Night,Overcast
+2026-03-21 23:00:00,19.4,76,3.8,0.0,100,3,Delhi,2026-03-21,23,Saturday,Night,Overcast
+2026-03-22 00:00:00,19.1,77,3.5,0.0,100,3,Delhi,2026-03-22,0,Sunday,Night,Overcast
+2026-03-22 01:00:00,18.9,78,3.1,0.0,100,3,Delhi,2026-03-22,1,Sunday,Night,Overcast
+2026-03-22 02:00:00,18.5,81,3.2,0.0,100,3,Delhi,2026-03-22,2,Sunday,Night,Overcast
+2026-03-22 03:00:00,18.3,82,3.4,0.0,100,3,Delhi,2026-03-22,3,Sunday,Night,Overcast
+2026-03-22 04:00:00,18.2,82,3.3,0.0,57,2,Delhi,2026-03-22,4,Sunday,Night,Partly Cloudy
+2026-03-22 05:00:00,17.9,84,3.1,0.0,83,3,Delhi,2026-03-22,5,Sunday,Morning,Overcast
+2026-03-22 06:00:00,17.8,84,3.0,0.0,93,3,Delhi,2026-03-22,6,Sunday,Morning,Overcast
+2026-03-22 07:00:00,18.2,83,2.9,0.0,65,2,Delhi,2026-03-22,7,Sunday,Morning,Partly Cloudy
+2026-03-22 08:00:00,19.8,73,3.3,0.0,61,2,Delhi,2026-03-22,8,Sunday,Morning,Partly Cloudy
+2026-03-22 09:00:00,21.7,65,4.0,0.0,54,2,Delhi,2026-03-22,9,Sunday,Morning,Partly Cloudy
+2026-03-22 10:00:00,23.6,57,4.7,0.0,66,2,Delhi,2026-03-22,10,Sunday,Morning,Partly Cloudy
+2026-03-22 11:00:00,25.2,52,6.4,0.0,59,2,Delhi,2026-03-22,11,Sunday,Morning,Partly Cloudy
+2026-03-22 12:00:00,25.8,51,8.1,0.0,100,3,Delhi,2026-03-22,12,Sunday,Afternoon,Overcast
+2026-03-22 13:00:00,26.8,49,8.1,0.0,32,1,Delhi,2026-03-22,13,Sunday,Afternoon,Mainly Clear
+2026-03-22 14:00:00,27.1,47,8.7,0.0,100,3,Delhi,2026-03-22,14,Sunday,Afternoon,Overcast
+2026-03-22 15:00:00,27.4,45,8.4,0.0,100,3,Delhi,2026-03-22,15,Sunday,Afternoon,Overcast
+2026-03-22 16:00:00,27.2,45,7.5,0.0,100,3,Delhi,2026-03-22,16,Sunday,Afternoon,Overcast
+2026-03-22 17:00:00,26.6,46,6.1,0.0,32,1,Delhi,2026-03-22,17,Sunday,Evening,Mainly Clear
+2026-03-22 18:00:00,24.9,55,3.8,0.0,0,0,Delhi,2026-03-22,18,Sunday,Evening,Clear
+2026-03-22 19:00:00,23.6,61,3.7,0.0,0,0,Delhi,2026-03-22,19,Sunday,Evening,Clear
+2026-03-22 20:00:00,22.7,65,3.6,0.0,9,1,Delhi,2026-03-22,20,Sunday,Evening,Mainly Clear
+2026-03-22 21:00:00,22.2,66,3.4,0.0,5,0,Delhi,2026-03-22,21,Sunday,Night,Clear
+2026-03-22 22:00:00,21.6,68,3.4,0.0,28,1,Delhi,2026-03-22,22,Sunday,Night,Mainly Clear
+2026-03-22 23:00:00,20.9,71,3.3,0.0,100,3,Delhi,2026-03-22,23,Sunday,Night,Overcast
+2026-03-23 00:00:00,20.3,73,3.2,0.0,100,3,Delhi,2026-03-23,0,Monday,Night,Overcast
+2026-03-23 01:00:00,20.2,72,2.1,0.0,100,3,Delhi,2026-03-23,1,Monday,Night,Overcast
+2026-03-23 02:00:00,20.0,72,2.0,0.0,55,2,Delhi,2026-03-23,2,Monday,Night,Partly Cloudy
+2026-03-23 03:00:00,19.9,71,3.8,0.0,85,3,Delhi,2026-03-23,3,Monday,Night,Overcast
+2026-03-23 04:00:00,19.9,72,1.5,0.0,69,2,Delhi,2026-03-23,4,Monday,Night,Partly Cloudy
+2026-03-23 05:00:00,19.0,78,4.7,0.1,93,3,Delhi,2026-03-23,5,Monday,Morning,Overcast
+2026-03-23 06:00:00,18.4,81,8.7,0.3,100,80,Delhi,2026-03-23,6,Monday,Morning,Showers
+2026-03-23 07:00:00,18.5,82,5.8,0.1,66,2,Delhi,2026-03-23,7,Monday,Morning,Partly Cloudy
+2026-03-23 08:00:00,19.8,78,4.0,0.0,57,2,Delhi,2026-03-23,8,Monday,Morning,Partly Cloudy
+2026-03-23 09:00:00,22.1,69,5.2,0.0,51,2,Delhi,2026-03-23,9,Monday,Morning,Partly Cloudy
+2026-03-23 10:00:00,24.1,61,4.6,0.0,52,2,Delhi,2026-03-23,10,Monday,Morning,Partly Cloudy
+2026-03-23 11:00:00,25.9,54,6.1,0.0,30,1,Delhi,2026-03-23,11,Monday,Morning,Mainly Clear
+2026-03-23 12:00:00,27.3,49,6.5,0.0,3,0,Delhi,2026-03-23,12,Monday,Afternoon,Clear
+2026-03-23 13:00:00,27.4,48,8.4,0.1,67,2,Delhi,2026-03-23,13,Monday,Afternoon,Partly Cloudy
+2026-03-23 14:00:00,27.7,46,8.1,0.0,45,2,Delhi,2026-03-23,14,Monday,Afternoon,Partly Cloudy
+2026-03-23 15:00:00,27.9,46,7.2,0.0,28,1,Delhi,2026-03-23,15,Monday,Afternoon,Mainly Clear
+2026-03-23 16:00:00,27.8,46,7.3,0.0,60,2,Delhi,2026-03-23,16,Monday,Afternoon,Partly Cloudy
+2026-03-23 17:00:00,27.1,49,6.5,0.0,24,1,Delhi,2026-03-23,17,Monday,Evening,Mainly Clear
+2026-03-23 18:00:00,25.6,59,4.2,0.0,5,0,Delhi,2026-03-23,18,Monday,Evening,Clear
+2026-03-23 19:00:00,24.4,65,3.1,0.0,27,1,Delhi,2026-03-23,19,Monday,Evening,Mainly Clear
+2026-03-23 20:00:00,24.0,66,2.6,0.0,34,1,Delhi,2026-03-23,20,Monday,Evening,Mainly Clear
+2026-03-23 21:00:00,23.6,66,2.9,0.0,43,1,Delhi,2026-03-23,21,Monday,Night,Mainly Clear
+2026-03-23 22:00:00,22.7,69,3.8,0.0,43,1,Delhi,2026-03-23,22,Monday,Night,Mainly Clear
+2026-03-23 23:00:00,21.7,75,3.1,0.0,44,1,Delhi,2026-03-23,23,Monday,Night,Mainly Clear
+2026-03-24 00:00:00,21.1,77,3.1,0.0,31,0,Delhi,2026-03-24,0,Tuesday,Night,Clear
+2026-03-24 01:00:00,20.5,79,2.7,0.0,19,0,Delhi,2026-03-24,1,Tuesday,Night,Clear
+2026-03-24 02:00:00,20.0,81,3.0,0.0,6,0,Delhi,2026-03-24,2,Tuesday,Night,Clear
+2026-03-24 03:00:00,19.3,84,3.3,0.0,6,0,Delhi,2026-03-24,3,Tuesday,Night,Clear
+2026-03-24 04:00:00,18.7,86,3.6,0.0,6,0,Delhi,2026-03-24,4,Tuesday,Night,Clear
+2026-03-24 05:00:00,18.5,87,4.0,0.0,6,0,Delhi,2026-03-24,5,Tuesday,Morning,Clear
+2026-03-24 06:00:00,18.9,85,4.0,0.0,4,0,Delhi,2026-03-24,6,Tuesday,Morning,Clear
+2026-03-24 07:00:00,19.8,82,3.6,0.0,2,0,Delhi,2026-03-24,7,Tuesday,Morning,Clear
+2026-03-24 08:00:00,21.1,76,4.1,0.0,0,0,Delhi,2026-03-24,8,Tuesday,Morning,Clear
+2026-03-24 09:00:00,23.2,67,5.5,0.0,0,0,Delhi,2026-03-24,9,Tuesday,Morning,Clear
+2026-03-24 10:00:00,25.7,56,7.2,0.0,0,0,Delhi,2026-03-24,10,Tuesday,Morning,Clear
+2026-03-24 11:00:00,27.7,47,8.7,0.0,0,0,Delhi,2026-03-24,11,Tuesday,Morning,Clear
+2026-03-24 12:00:00,28.7,42,8.9,0.0,14,1,Delhi,2026-03-24,12,Tuesday,Afternoon,Mainly Clear
+2026-03-24 13:00:00,29.2,39,8.8,0.0,28,1,Delhi,2026-03-24,13,Tuesday,Afternoon,Mainly Clear
+2026-03-24 14:00:00,29.3,37,8.5,0.0,42,1,Delhi,2026-03-24,14,Tuesday,Afternoon,Mainly Clear
+2026-03-24 15:00:00,29.2,37,8.0,0.0,44,2,Delhi,2026-03-24,15,Tuesday,Afternoon,Partly Cloudy
+2026-03-24 16:00:00,28.8,38,7.3,0.0,47,2,Delhi,2026-03-24,16,Tuesday,Afternoon,Partly Cloudy
+2026-03-24 17:00:00,28.0,41,6.6,0.0,49,2,Delhi,2026-03-24,17,Tuesday,Evening,Partly Cloudy
+2026-03-24 18:00:00,26.7,47,5.6,0.0,36,1,Delhi,2026-03-24,18,Tuesday,Evening,Mainly Clear
+2026-03-24 19:00:00,25.0,55,4.7,0.0,24,1,Delhi,2026-03-24,19,Tuesday,Evening,Mainly Clear
+2026-03-24 20:00:00,23.6,62,4.1,0.0,11,1,Delhi,2026-03-24,20,Tuesday,Evening,Mainly Clear
+2026-03-24 21:00:00,22.7,65,4.0,0.0,41,3,Delhi,2026-03-24,21,Tuesday,Night,Overcast
+2026-03-24 22:00:00,22.1,67,3.8,0.0,70,3,Delhi,2026-03-24,22,Tuesday,Night,Overcast
+2026-03-24 23:00:00,21.6,68,3.9,0.0,100,3,Delhi,2026-03-24,23,Tuesday,Night,Overcast
+2026-03-25 00:00:00,21.2,69,2.9,0.0,85,2,Delhi,2026-03-25,0,Wednesday,Night,Partly Cloudy
+2026-03-25 01:00:00,20.9,70,2.4,0.0,69,2,Delhi,2026-03-25,1,Wednesday,Night,Partly Cloudy
+2026-03-25 02:00:00,20.6,71,2.8,0.0,54,2,Delhi,2026-03-25,2,Wednesday,Night,Partly Cloudy
+2026-03-25 03:00:00,20.1,73,2.8,0.0,63,3,Delhi,2026-03-25,3,Wednesday,Night,Overcast
+2026-03-25 04:00:00,19.6,74,3.1,0.0,73,3,Delhi,2026-03-25,4,Wednesday,Night,Overcast
+2026-03-25 05:00:00,19.5,75,3.3,0.0,82,3,Delhi,2026-03-25,5,Wednesday,Morning,Overcast
+2026-03-25 06:00:00,19.8,75,3.2,0.0,66,1,Delhi,2026-03-25,6,Wednesday,Morning,Mainly Clear
+2026-03-25 07:00:00,20.4,73,3.0,0.0,49,1,Delhi,2026-03-25,7,Wednesday,Morning,Mainly Clear
+2026-03-25 08:00:00,21.6,69,3.3,0.0,33,1,Delhi,2026-03-25,8,Wednesday,Morning,Mainly Clear
+2026-03-25 09:00:00,23.7,61,4.3,0.0,28,1,Delhi,2026-03-25,9,Wednesday,Morning,Mainly Clear
+2026-03-25 10:00:00,26.3,50,5.8,0.0,23,1,Delhi,2026-03-25,10,Wednesday,Morning,Mainly Clear
+2026-03-25 11:00:00,28.5,42,6.9,0.0,18,1,Delhi,2026-03-25,11,Wednesday,Morning,Mainly Clear
+2026-03-25 12:00:00,29.7,38,8.1,0.0,23,1,Delhi,2026-03-25,12,Wednesday,Afternoon,Mainly Clear
+2026-03-25 13:00:00,30.5,36,9.1,0.0,29,1,Delhi,2026-03-25,13,Wednesday,Afternoon,Mainly Clear
+2026-03-25 14:00:00,30.9,36,9.7,0.0,34,1,Delhi,2026-03-25,14,Wednesday,Afternoon,Mainly Clear
+2026-03-25 15:00:00,30.8,36,8.9,0.0,23,0,Delhi,2026-03-25,15,Wednesday,Afternoon,Clear
+2026-03-25 16:00:00,30.4,37,7.8,0.0,11,0,Delhi,2026-03-25,16,Wednesday,Afternoon,Clear
+2026-03-25 17:00:00,29.6,40,6.6,0.0,0,0,Delhi,2026-03-25,17,Wednesday,Evening,Clear
+2026-03-25 18:00:00,28.1,46,5.9,0.0,0,0,Delhi,2026-03-25,18,Wednesday,Evening,Clear
+2026-03-25 19:00:00,26.3,55,5.1,0.0,0,0,Delhi,2026-03-25,19,Wednesday,Evening,Clear
+2026-03-25 20:00:00,24.9,61,4.4,0.0,0,0,Delhi,2026-03-25,20,Wednesday,Evening,Clear
+2026-03-25 21:00:00,24.1,63,3.9,0.0,1,0,Delhi,2026-03-25,21,Wednesday,Night,Clear
+2026-03-25 22:00:00,23.8,62,3.7,0.0,2,0,Delhi,2026-03-25,22,Wednesday,Night,Clear
+2026-03-25 23:00:00,23.3,62,3.2,0.0,3,0,Delhi,2026-03-25,23,Wednesday,Night,Clear
+2026-03-26 00:00:00,22.6,64,3.2,0.0,26,2,Delhi,2026-03-26,0,Thursday,Night,Partly Cloudy
+2026-03-26 01:00:00,21.8,68,3.2,0.0,50,2,Delhi,2026-03-26,1,Thursday,Night,Partly Cloudy
+2026-03-26 02:00:00,21.1,71,3.1,0.0,73,2,Delhi,2026-03-26,2,Thursday,Night,Partly Cloudy
+2026-03-26 03:00:00,20.4,74,3.1,0.0,64,2,Delhi,2026-03-26,3,Thursday,Night,Partly Cloudy
+2026-03-26 04:00:00,19.8,77,3.3,0.0,55,2,Delhi,2026-03-26,4,Thursday,Night,Partly Cloudy
+2026-03-26 05:00:00,19.6,78,3.6,0.0,46,2,Delhi,2026-03-26,5,Thursday,Morning,Partly Cloudy
+2026-03-26 06:00:00,19.8,78,3.7,0.0,64,3,Delhi,2026-03-26,6,Thursday,Morning,Overcast
+2026-03-26 07:00:00,20.4,77,3.3,0.0,81,3,Delhi,2026-03-26,7,Thursday,Morning,Overcast
+2026-03-26 08:00:00,21.6,73,3.2,0.0,99,3,Delhi,2026-03-26,8,Thursday,Morning,Overcast
+2026-03-26 09:00:00,23.7,65,4.5,0.0,90,2,Delhi,2026-03-26,9,Thursday,Morning,Partly Cloudy
+2026-03-26 10:00:00,26.4,55,5.8,0.0,82,2,Delhi,2026-03-26,10,Thursday,Morning,Partly Cloudy
+2026-03-26 11:00:00,28.7,46,6.9,0.0,73,2,Delhi,2026-03-26,11,Thursday,Morning,Partly Cloudy
+2026-03-26 12:00:00,30.3,40,7.2,0.0,64,2,Delhi,2026-03-26,12,Thursday,Afternoon,Partly Cloudy
+2026-03-26 13:00:00,31.4,36,6.9,0.0,56,2,Delhi,2026-03-26,13,Thursday,Afternoon,Partly Cloudy
+2026-03-26 14:00:00,32.0,34,6.5,0.0,47,2,Delhi,2026-03-26,14,Thursday,Afternoon,Partly Cloudy
+2026-03-26 15:00:00,32.0,34,5.8,0.0,31,0,Delhi,2026-03-26,15,Thursday,Afternoon,Clear
+2026-03-26 16:00:00,31.4,37,5.1,0.0,16,0,Delhi,2026-03-26,16,Thursday,Afternoon,Clear
+2026-03-26 17:00:00,30.6,40,4.3,0.0,0,0,Delhi,2026-03-26,17,Thursday,Evening,Clear
+2026-03-26 18:00:00,29.4,45,3.4,0.0,23,2,Delhi,2026-03-26,18,Thursday,Evening,Partly Cloudy
+2026-03-26 19:00:00,28.0,51,2.9,0.0,46,2,Delhi,2026-03-26,19,Thursday,Evening,Partly Cloudy
+2026-03-26 20:00:00,26.7,56,2.3,0.0,69,2,Delhi,2026-03-26,20,Thursday,Evening,Partly Cloudy
+2026-03-26 21:00:00,25.7,59,2.5,0.0,79,3,Delhi,2026-03-26,21,Thursday,Night,Overcast
+2026-03-26 22:00:00,24.9,61,3.8,0.0,90,3,Delhi,2026-03-26,22,Thursday,Night,Overcast
+2026-03-26 23:00:00,24.1,63,4.7,0.0,100,3,Delhi,2026-03-26,23,Thursday,Night,Overcast
