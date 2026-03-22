@@ -74,11 +74,11 @@ The project simulates a real-world workflow where raw API data is transformed in
 ```
 api-weather-analytics-dashboard/
 │
-├── data_fetch.py
-├── analysis.ipynb
-├── weather_data.csv
-├── images/
-│   └── dashboard.png
+├── API_Based_Weather_Analytics_Dashboard.pbix
+├── Colab_Notebook.ipynb
+├── weather_raw.csv
+├── weather_cities_clean.csv
+├── API_Weather_Dashboard.png
 ├── README.md
 ```
 
