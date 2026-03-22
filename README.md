@@ -45,7 +45,7 @@ The project simulates a real-world workflow where raw API data is transformed in
 
 ![Dashboard Screenshot](images/dashboard.png)
 
-> Add your screenshot inside an `images` folder and name it `dashboard.png`
+
 
 ---
 
